@@ -10,7 +10,8 @@ Personalized Recommendations: Offers travel suggestions tailored to the user's s
 Comprehensive Planning: Considers flights, accommodations, and local attractions in the destination city.
 Budget-Friendly: Optimizes recommendations to fit within the user's specified budget.
 User-Friendly Interface: Easy-to-navigate Streamlit dashboard for inputting travel preferences and viewing recommendations.
-How It Works
+
+**How It Works**
 User Input: Through the Streamlit dashboard, users input their travel preferences, including origin and destination cities, budget, travel duration, number of adults and children, and preferred stopovers.
 API Integration: The system utilizes the Google Maps API and Google Places API to gather information on travel routes, local accommodations, and attractions. The Ticketmaster API is used to recommend events and activities.
 Webscraping: For additional hotel details in certain cities, the system employs webscraping techniques using BeautifulSoup.
