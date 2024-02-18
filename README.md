@@ -1,8 +1,11 @@
-**Travel Recommendation System
-Project Overview**
+**Travel Recommendation System**
+
+**Project Overview**
+
 The Travel Recommendation System is designed to provide personalized travel destination recommendations based on user preferences. This innovative system simplifies the travel planning process by considering various factors such as the destination city, origin city, budget, duration of stay, number of travelers (adults and children), and preferred number of stopovers. Using a user-friendly Streamlit dashboard, the system delivers a customized travel plan that fits within the user's budget.
 
 **Features**
+
 Personalized Recommendations: Offers travel suggestions tailored to the user's specific preferences and requirements.
 Comprehensive Planning: Considers flights, accommodations, and local attractions in the destination city.
 Budget-Friendly: Optimizes recommendations to fit within the user's specified budget.
@@ -20,6 +23,7 @@ Ticketmaster API: To recommend local events and activities.
 BeautifulSoup: For web scraping hotel details from various websites.
 
 **Usage**
+
 Open the Streamlit dashboard.
 Input your travel preferences in the provided fields.
 Click the "Recommend" button to view your personalized travel plan.
